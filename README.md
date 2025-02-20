@@ -1,2 +1,1 @@
-# debuggingProject
-Automation Module 2 Debugging Task
+# PLATO Automation Course Module 2 Debugging Task
